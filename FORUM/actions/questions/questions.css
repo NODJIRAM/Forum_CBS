@@ -1,0 +1,12 @@
+.card{
+    width: 450px;
+    align-items: center;
+    background: transparent;
+    border: 2px solid black;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    color: #2f1414;
+    border-radius: 15px;
+    padding: 10px 15px;
+    background-color: white;
+}

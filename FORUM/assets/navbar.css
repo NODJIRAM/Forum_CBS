@@ -1,0 +1,21 @@
+.container{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background: yellowgreen;
+    width: 100vh;
+    height: 8vh;
+    border-radius: 0 0 15px 15px;
+}
+
+nav a:hover{
+    text-decoration: none;
+    color: white;
+    font-style: italic;
+}
