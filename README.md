@@ -23,7 +23,7 @@ MAMP – Mac, Apache, MySQL, PHP
 
 LAMP – Linux, Apache, MySQL, PHP
 
-XAMPP – Multiplateforme (X), Apache, MariaDB, PHP, Perl
+XAMPP – Multiplateforme (X), Apache, MariaDB, PHP, Perl,j,
 
 
 #### 2.1 lancer le projet
