@@ -8,13 +8,13 @@ Un forum sur un site web est une plateforme interactive où les membres de la co
 
 ## Instructions d'installation
 ## 1 Paramétre des identifiants de connexion à la base de données dans le "database.php" :
-$serveur = "localhost";
+$serveur = "localhost" le nom du localhost;
 
-$login = "root";
+$login = "root" le login par défaut;
 
-$password = "";
+$password = "" le mot de passe par défaut;
 
-$basename = "forum";
+$basename = "forum" le nom de la base de données;
 
 #### 2 Vous devez disposer de serveur stack composé d'Apache, de MySQL et de PHP (le projet est en local) :
 WAMP – Windows, Apache, MySQL, PHP
